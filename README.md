@@ -5,7 +5,8 @@ of phone numbers are valid US cellphone numbers.
 
 Note: There is an attempt to add parallelization, but it is not the most efficient.
 
-Usage: java PhoneNumberService [phone number to validate]
-       * returns if phone number is valid
-       java PhoneNumberService [Input file] [Output file]
-       * returns list of valid phone numbers from original file
+Usage: 
+java PhoneNumberService [phone number to validate]
+- returns if phone number is valid
+java PhoneNumberService [input file] [output file]
+- returns list of valid phone numbers from original file
