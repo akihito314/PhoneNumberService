@@ -1,1 +1,11 @@
-"# PhoneNumberService" 
+PhoneNumberService
+
+This simple program takes an input file of phone numbers and returns the list
+of phone numbers are valid US cellphone numbers.
+
+Note: There is an attempt to add parallelization, but it is not the most efficient.
+
+Usage: java PhoneNumberService [phone number to validate]
+       * returns if phone number is valid
+       java PhoneNumberService [Input file] [Output file]
+       * returns list of valid phone numbers from original file
