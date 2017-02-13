@@ -7,6 +7,6 @@ Note: There is an attempt to add parallelization, but it is not the most efficie
 
 Usage: 
 java PhoneNumberService [phone number to validate]
-- returns if phone number is valid
+returns if phone number is valid
 java PhoneNumberService [input file] [output file]
-- returns list of valid phone numbers from original file
+returns list of valid phone numbers from original file
